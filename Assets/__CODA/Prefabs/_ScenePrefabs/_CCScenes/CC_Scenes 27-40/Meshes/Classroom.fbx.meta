@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: da9dafb3a7e14a246a3e00de83ebe3b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bookshelf1
+    100002: Bookshelf2
+    100004: Chalkboard1
+    100006: CLASSROOM
+    100008: //RootNode
+    100010: ClassroomDoor
+    100012: ClassroomLight2
+    100014: Cube
+    100016: StudentDesk1
+    100018: StudentDesk1.001
+    100020: TeacherDesk
+    400000: Bookshelf1
+    400002: Bookshelf2
+    400004: Chalkboard1
+    400006: CLASSROOM
+    400008: //RootNode
+    400010: ClassroomDoor
+    400012: ClassroomLight2
+    400014: Cube
+    400016: StudentDesk1
+    400018: StudentDesk1.001
+    400020: TeacherDesk
+    2100000: CC Mat
+    2100002: CC Light Material
+    2300000: Bookshelf1
+    2300002: Bookshelf2
+    2300004: Chalkboard1
+    2300006: CLASSROOM
+    2300008: ClassroomDoor
+    2300010: ClassroomLight2
+    2300012: Cube
+    2300014: StudentDesk1
+    2300016: StudentDesk1.001
+    2300018: TeacherDesk
+    3300000: Bookshelf1
+    3300002: Bookshelf2
+    3300004: Chalkboard1
+    3300006: CLASSROOM
+    3300008: ClassroomDoor
+    3300010: ClassroomLight2
+    3300012: Cube
+    3300014: StudentDesk1
+    3300016: StudentDesk1.001
+    3300018: TeacherDesk
+    4300000: ClassroomLight2
+    4300002: StudentDesk1
+    4300004: TeacherDesk
+    4300006: Bookshelf1
+    4300008: ClassroomDoor
+    4300010: Bookshelf2
+    4300012: Chalkboard1
+    4300014: CLASSROOM
+    4300016: StudentDesk1.001
+    4300018: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC Light Material
+    second: {fileID: 2100000, guid: dca337c6f771cba44aa42e3fe52bbfe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CC Mat
+    second: {fileID: 2100000, guid: dca337c6f771cba44aa42e3fe52bbfe9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
